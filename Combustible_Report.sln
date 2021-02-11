@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Combustible_Report", "Combustible_Report\Combustible_Report.rptproj", "{AF13617B-C776-41D0-AD57-C1630B6BC5A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.Debug|Default.ActiveCfg = Debug
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.Debug|Default.Build.0 = Debug
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.Debug|Default.Deploy.0 = Debug
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.DebugLocal|Default.Build.0 = DebugLocal
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.Release|Default.ActiveCfg = Release
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.Release|Default.Build.0 = Release
+		{AF13617B-C776-41D0-AD57-C1630B6BC5A1}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
